@@ -2,6 +2,8 @@
 <h1 align="center" style="color: #333;">Hi 👋, I'm Vivek Raj P D</h1>
 <h3 align="center">A passionate Full Stack Developer and Mobile Application Developer from India</h3>
 
+<img src="https://github.com/CodeWithVivekRaj/CodeWithVivekRaj/blob/main/banner.png?raw=true"/>
+
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [http://kvshooterbyvivek.netlify.app](http://kvshooterbyvivek.netlify.app)
