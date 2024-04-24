@@ -6,9 +6,17 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [http://kvshooterbyvivek.netlify.app](http://kvshooterbyvivek.netlify.app)
+- 🚀 Front-end specialist (React.js, Angular).
 
-- 💬 Ask me about **Angular, Node.js, JavaScript, TypeScript**
+- 🔧 Backend skills (Node.js, Express.js, Java).
+
+- 🎨 Design enthusiast, always refining interfaces.
+
+- 📚 Lifelong learner, staying updated with tech.
+
+- 🌟 Love collaborating! Let's build something!
+
+- 💬 Ask me about **Angular, Node.js, JavaScript, TypeScript, Java**
 
 - 📫 How to reach me **vivekrajpd@gmail.com**
 
