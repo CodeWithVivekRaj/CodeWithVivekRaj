@@ -4,19 +4,19 @@
 
 <img src="https://github.com/CodeWithVivekRaj/CodeWithVivekRaj/blob/main/banner.png?raw=true"/>
 
-- 🌱 I’m currently learning **React Native**
+-🌱 Passionate about architecting end-to-end solutions that are both scalable and robust.
 
-- 🚀 Front-end specialist (React.js, Angular).
+-🌟 I craft software systems that balance big-picture architecture with meticulous low-level design, leveraging proven patterns to build scalable, maintainable solutions.
 
-- 🔧 Backend skills (Node.js, Express.js, Java).
+-🚀 Specializes in modern front-end development with expertise in React.js and Angular.
 
-- 🎨 Design enthusiast, always refining interfaces.
+-🔧 Proficient in backend technologies, including Node.js, Express.js, and Java, to build high-performance applications.
 
-- 📚 Lifelong learner, staying updated with tech.
+-🎨 Committed to crafting intuitive, visually compelling interfaces that enhance user experience.
 
-- 🌟 Love collaborating! Let's build something!
+-📚 A dedicated lifelong learner, continuously exploring and mastering emerging technologies.
 
-- 💬 Ask me about **Angular, Node.js, JavaScript, TypeScript, Java**
+-💬 Open to discussing Angular, Node.js, JavaScript, TypeScript, and Java.- 
 
 - 📫 How to reach me **vivekrajpd@gmail.com**
 
